@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "MediHelp-v2",
+    "slug": "MediHelp-v2",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "medihelpv2",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/D187_167_065_1200.jpg"
+    },
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.darkcom109.MediHelpv2",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.darkcom109.MediHelpv2"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font",
+      "expo-sqlite",
+      "expo-notifications"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "e26dd28a-10f2-45d7-8433-71ba26f5f865"
+      }
+    },
+    "owner": "darkcom109"
+  }
+}
