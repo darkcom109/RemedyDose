@@ -1,4 +1,4 @@
-# Remedy Dose
+# RemedyDose
 
 This application was my first full-stack JavaScript with React-native.
 Remedy Dose is a comprehensive medication reminder app that enables users to log their medications,
