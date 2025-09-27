@@ -22,4 +22,4 @@ with an added AI chatbot that fetches the user's medication from an Appwrite dat
 
 ## Tech Stack
 - JavaScript, TypeScript
-- React Native, Expo and Appwrite (BaaS)
+- React Native, Expo, Hugging Face and Appwrite (BaaS)
