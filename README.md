@@ -23,3 +23,12 @@ with an added AI chatbot that fetches the user's medication from an Appwrite dat
 ## Tech Stack
 - JavaScript, TypeScript
 - React Native, Expo, Hugging Face and Appwrite (BaaS)
+
+## 📦 Installation
+
+```bash
+# Clone the repo
+git clone https://github.com/darkcom109/RemedyDose.git
+
+# Navigate to project directory
+cd RemedyDose
