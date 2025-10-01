@@ -4,6 +4,8 @@ This application was my first full-stack JavaScript with React-native.
 Remedy Dose is a comprehensive medication reminder app that enables users to log their medications,
 with an added AI chatbot that fetches the user's medication from an Appwrite database.
 
+---
+
 <img width="158" height="338" alt="image" src="https://github.com/user-attachments/assets/5d71c54a-2ecd-49cf-98dd-aa668aa91ec2" />
 <img width="158" height="338" alt="image" src="https://github.com/user-attachments/assets/be5548db-858f-4fd5-b7bc-23afe507e847" />
 <img width="158" height="338" alt="image" src="https://github.com/user-attachments/assets/ce4256b5-819e-480e-89a2-60d852513ef1" />
