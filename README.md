@@ -34,3 +34,9 @@ git clone https://github.com/darkcom109/RemedyDose.git
 
 # Navigate to project directory
 cd RemedyDose
+
+# Install dependencies
+npm install
+
+# Start the server
+npx expo start
