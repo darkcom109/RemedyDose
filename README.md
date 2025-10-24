@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/732aa28f-7b8b-4263-8936-cac79130fb92" width="200" />
-  <img src="https://github.com/user-attachments/assets/18a2da9f-8c67-40e2-bf5d-feffa9824133" width="200" />
-  <img src="https://github.com/user-attachments/assets/73c5072f-c932-409a-b3c7-d08de3e4faaa" width="200" />
-  <img src="https://github.com/user-attachments/assets/ee1f2d32-8997-498b-8583-6a788751cf1b" width="200" />
-  <img src="https://github.com/user-attachments/assets/5153c8b9-7bfa-4876-a35f-21a36de2c63e" width="200" />
-  <img src="https://github.com/user-attachments/assets/306174c7-d15f-453e-8e09-5dcbc2f967b0" width="200" />
-  <img src="https://github.com/user-attachments/assets/9df5fd24-e107-4d5e-8773-20b73b225664" width="200" />
-  <img src="https://github.com/user-attachments/assets/dc519c9c-206a-4b59-acbb-cec86e7e0e59" width="200" />
+  <img src="https://github.com/user-attachments/assets/732aa28f-7b8b-4263-8936-cac79130fb92" width="150" />
+  <img src="https://github.com/user-attachments/assets/18a2da9f-8c67-40e2-bf5d-feffa9824133" width="150" />
+  <img src="https://github.com/user-attachments/assets/73c5072f-c932-409a-b3c7-d08de3e4faaa" width="150" />
+  <img src="https://github.com/user-attachments/assets/ee1f2d32-8997-498b-8583-6a788751cf1b" width="150" />
+  <img src="https://github.com/user-attachments/assets/5153c8b9-7bfa-4876-a35f-21a36de2c63e" width="150" />
+  <img src="https://github.com/user-attachments/assets/306174c7-d15f-453e-8e09-5dcbc2f967b0" width="150" />
+  <img src="https://github.com/user-attachments/assets/9df5fd24-e107-4d5e-8773-20b73b225664" width="150" />
+  <img src="https://github.com/user-attachments/assets/dc519c9c-206a-4b59-acbb-cec86e7e0e59" width="150" />
 </p>
 
 **RemedyDose** is a **Full-Stack React Native and Expo** application designed to compete against modern medication reminder applications.  
