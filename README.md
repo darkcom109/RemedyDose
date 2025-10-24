@@ -1,4 +1,4 @@
-# 💊 RemedyDose
+# <p align="center">💊 RemedyDose</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
