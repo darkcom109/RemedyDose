@@ -1,10 +1,6 @@
 {
   "name": "medihelp-v2",
-<<<<<<< HEAD
   "main": "index.js",
-=======
-  "main": "expo-router/entry",
->>>>>>> 1ac28e168cf5f5f54c341105db44bb55c30bb175
   "version": "1.0.0",
   "scripts": {
     "start": "expo start",
@@ -29,10 +25,6 @@
     "expo-background-fetch": "~13.1.6",
     "expo-blur": "~14.1.5",
     "expo-constants": "~17.1.7",
-<<<<<<< HEAD
-=======
-    "expo-dev-client": "~5.2.4",
->>>>>>> 1ac28e168cf5f5f54c341105db44bb55c30bb175
     "expo-device": "~7.1.4",
     "expo-font": "~13.3.2",
     "expo-haptics": "~14.1.4",
@@ -40,11 +32,7 @@
     "expo-linear-gradient": "~14.1.5",
     "expo-linking": "~7.1.7",
     "expo-local-authentication": "~16.0.5",
-<<<<<<< HEAD
     "expo-notifications": "^0.31.4",
-=======
-    "expo-notifications": "~0.31.4",
->>>>>>> 1ac28e168cf5f5f54c341105db44bb55c30bb175
     "expo-router": "~5.1.3",
     "expo-secure-store": "^14.2.3",
     "expo-splash-screen": "~0.30.10",

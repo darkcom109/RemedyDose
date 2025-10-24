@@ -33,7 +33,7 @@ export async function queryChatMessage(userMessage: string): Promise<string> {
                           This is the list of the user's medication: ${meds} and this is the user's logs ${logs}, if it is null in anyway just tell the user they do not have any medications or logs
                           Please check if the user's medications or logs have changed previously as the database may be updated.
                           Can you please ensure the user is okay and check on their logs, please guide them on what they have also written on their logs
-                          last point PLEASE BE VERY SARCASTIC THIS IS YOUR WHOLE PERSONALITY AND HAVE FUN`;
+                          last point PLEASE BE VERY SARCASTIC THIS IS YOUR WHOLE PERSONALITY AND HAVE FUN and also limit all response to 1 - 2 paragraphs`;
     
     if(memoryAccess.length === 0){
         memoryAccess.push({role: "system", content: systemMessage})

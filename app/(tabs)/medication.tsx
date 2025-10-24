@@ -12,7 +12,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const DATABASE_ID = process.env.EXPO_PUBLIC_APPWRITE_DATABASE_ID!;
 const COLLECTION_ID = process.env.EXPO_PUBLIC_APPWRITE_COLLECTION_ID!;
 
-export default function medication() {
+export default function Medication() {
     
     const [medicationName, setMedicationName] = useState('');
     const [dosageQuantity, setDosageQuantity] = useState('');
@@ -300,7 +300,7 @@ export default function medication() {
                                     onChangeText={setDay}
                                 />
                                 <Text style={styles.helperText}>
-                                    Enter a specific day (Monday, Tuesday, etc.) or "All" for daily
+                                    Enter a specific day (Monday, Tuesday, etc.) or All for daily
                                 </Text>
                             </View>
                         )}

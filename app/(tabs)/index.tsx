@@ -12,7 +12,7 @@ import { SafeAreaView } from "react-native-safe-area-context";
 const DATABASE_ID = process.env.EXPO_PUBLIC_APPWRITE_DATABASE_ID!;
 const COLLECTION_ID = process.env.EXPO_PUBLIC_APPWRITE_COLLECTION_ID!;
 
-export default function index() {
+export default function Index() {
   const [medications, setMedications] = useState<Models.Document[]>([]);
   const router = useRouter()
   const [enableModal, setEnableModal] = useState(false);

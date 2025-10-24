@@ -11,7 +11,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 const DATABASE_ID = process.env.EXPO_PUBLIC_APPWRITE_DATABASE_ID!;
 const COLLECTION_ID = process.env.EXPO_PUBLIC_APPWRITE_COLLECTION_ID_LOG!;
 
-export default function log() {
+export default function Log() {
     const [logs, setLogs] = useState<Models.Document[]>([]);
     const [enableModal, setEnableModal] = useState(false);
     const [newLogTitle, setNewLogTitle] = useState("");

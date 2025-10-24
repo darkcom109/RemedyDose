@@ -5,7 +5,6 @@ import {
 import { Ionicons } from "@expo/vector-icons";
 import { useRouter } from "expo-router";
 import { useEffect, useRef } from "react";
-<<<<<<< HEAD
 import { Animated, LogBox, StyleSheet, Text, View } from "react-native";
 
 // Hide Expo Go push notification warnings
@@ -13,10 +12,6 @@ LogBox.ignoreLogs([
   'expo-notifications: Android Push notifications',
   '`expo-notifications` functionality is not fully supported in Expo Go'
 ]);
-
-=======
-import { Animated, StyleSheet, Text, View } from "react-native";
->>>>>>> 1ac28e168cf5f5f54c341105db44bb55c30bb175
 
 export default function Index() {
 
@@ -47,11 +42,7 @@ export default function Index() {
     ]).start();
 
     const timer = setTimeout(() => {
-<<<<<<< HEAD
       router.replace("/auth"); // Remove the index page from the route system
-=======
-      router.replace("/(tabs)"); // Remove the index page from the route system
->>>>>>> 1ac28e168cf5f5f54c341105db44bb55c30bb175
     }, 4000);
 
     return () => clearTimeout(timer);
