@@ -310,7 +310,7 @@ export default function Medication() {
                                 <Text style={styles.label}>How Many Quantities do You Hold?</Text>
                                 <TextInput
                                     style={styles.input}
-                                    placeholder="e.g. 30"
+                                    placeholder="e.g. 20"
                                     placeholderTextColor="#94A3B8"
                                     value={quantity}
                                     onChangeText={setQuantity}
