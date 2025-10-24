@@ -19,6 +19,8 @@
 <img src="https://github.com/user-attachments/assets/9df5fd24-e107-4d5e-8773-20b73b225664" width="300" />
 <img src="https://github.com/user-attachments/assets/dc519c9c-206a-4b59-acbb-cec86e7e0e59" width="300" />
 <img src="https://github.com/user-attachments/assets/73c5072f-c932-409a-b3c7-d08de3e4faaa" width="300" />
+<img src="https://github.com/user-attachments/assets/ee1f2d32-8997-498b-8583-6a788751cf1b" width="300" />
+
 
 **RemedyDose** is a **Full-Stack React Native and Expo** application designed to compete against modern medication reminder applications.  
 It integrates **local authentication**, **scheduled notifications**, and a full **Appwrite backend (BaaS)** — enhanced with **Hugging Face AI** for smart assistance and conversational interaction.
