@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Notifications-2196F3?style=for-the-badge&logo=bell&logoColor=white" />
 </p>
 
-<p align="center>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/732aa28f-7b8b-4263-8936-cac79130fb92" width="200" />
   <img src="https://github.com/user-attachments/assets/18a2da9f-8c67-40e2-bf5d-feffa9824133" width="200" />
   <img src="https://github.com/user-attachments/assets/73c5072f-c932-409a-b3c7-d08de3e4faaa" width="200" />
