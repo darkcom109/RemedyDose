@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/-Notifications-2196F3?style=for-the-badge&logo=bell&logoColor=white" />
 </p>
 
-**RemedyDose** is a **Full-Stack React Native and Expo** application designed to bring personalized healthcare management to your fingertips.  
+**RemedyDose** is a **Full-Stack React Native and Expo** application designed to compete against modern medication reminder applications.  
 It integrates **local authentication**, **scheduled notifications**, and a full **Appwrite backend (BaaS)** — enhanced with **Hugging Face AI** for smart assistance and conversational interaction.
 
 ---
