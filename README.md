@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/-Expo_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=white" />
   <img src="https://img.shields.io/badge/-Local_Auth-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/-Notifications-2196F3?style=for-the-badge&logo=bell&logoColor=white" />
-</p> 
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/732aa28f-7b8b-4263-8936-cac79130fb92" width="150" />
